@@ -7,14 +7,14 @@ github: https://github.com/mukhamadieva-elina
 
 План изучения DevOps:
 1) DevOps
-﻿﻿﻿2) Основы устройства интернета
+2) Основы устройства интернета
 3) ﻿﻿﻿Облака
-4) ﻿﻿﻿Infrastructure as a Code
+4) Infrastructure as a Code
 5) ﻿﻿﻿Виртуализация
-﻿﻿﻿6) Контейнеризация
+6) Контейнеризация
 7) ﻿﻿﻿Оркестрация
-﻿﻿﻿8) Среды разработки
-﻿﻿﻿9) Стратегии ветвления
+8) Среды разработки
+9) Стратегии ветвления
 10) ﻿﻿﻿﻿CI/CD
-11) ﻿﻿﻿﻿GitOps
-﻿﻿﻿﻿12) Observability
+11) GitOps
+12) Observability
